@@ -27,6 +27,9 @@ public class HelloWorld extends Activity {
 	ArcGISTiledMapServiceLayer tileLayer;
 
 
+	
+	
+	
 	/** Called when the activity is first created. */
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
